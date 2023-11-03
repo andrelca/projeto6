@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+   
+
+}
+#cabecalho1{
+    background: #ffffff;
+    padding: 40px;
+    text-align: center;
+    box-shadow:0px 4px 6px #8a8a8a;
+}
+#cabecalho2{
+    background: #ffffff;
+    padding: 25px;
+    text-align: center;
+    border-bottom-style:solid;
+    border-color: #b8b8b8;
+    border-radius: 10px;
+    width:1200px;
+    margin: 30px auto;
+    box-shadow:0px 4px 16px #8a8a8a   ;
+}
+#vitrine{
+   margin: 14px auto;
+    background: rgb(255, 255, 255);
+}
+#areaBaixo{
+    height: 1100px; 
+    width: 1300px;
+    margin: 30px auto;
+    border-radius: 2%;
+    background: #000000;
+}
+#preto{
+    height: 1400px; 
+    width: 1500px;
+    margin: 30px auto;
+    border-radius: 2%;
+    background: #000000;
+    box-shadow: 2px 4px 25px rgb(97, 97, 97) ;
+}
+
+.produtoPrincipal{
+    height: 400px; 
+    width: 1400px;
+    border-radius: 12px;
+    margin: 90px auto;
+    text-align: left;
+    background: rgb(255, 255, 255);
+    box-shadow: 3px 2px 8px rgb(163, 163, 163);
+}
+.esquerdaPrincipal{
+    text-align: left;
+    float: left;
+    margin: 110px 90px auto;
+    height: 400px;
+    
+}
+.direitaPrincipal{
+    text-align: right;
+    float: right;
+    margin: 30px 30px auto;
+    height: 400px;
+}
+.produto1{
+    float: left;
+    margin: 30px auto;
+    height: 350px;
+     width: 750px;
+    border-radius: 12px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    box-shadow: 3px 7px 25px rgb(61, 61, 61);
+}
+.produto2{
+    float: right ;
+    margin: 30px auto;
+    height: 350px;
+     width: 500px;
+    border-radius: 12px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    box-shadow: 3px 7px 20px rgb(114, 114, 114);
+}
+.produto3{
+    float: right;
+    margin:  89px auto;
+    height: 350px;
+     width: 750px;
+    border-radius: 12px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    box-shadow: 3px 7px 20px rgb(114, 114, 114);
+}
+.produto4{
+    float: left;
+    margin: 89px auto;
+    height: 350px;
+     width: 500px;
+    border-radius: 12px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    box-shadow: 3px 7px 20px rgb(114, 114, 114);
+}
+.produto5{
+    float: right;
+    margin: 10px auto ;
+    height: 350px;
+     width: 1300px;
+    border-radius: 12px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    box-shadow: 3px 7px 20px rgb(114, 114, 114);
+}
+
+
+.cinza{
+    color:gray;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    
+}
+h2{
+    font-size: 30px;
+}
+a:link, a:visited{
+    color: #5a5a5a;
+    padding: 8px 100px;
+    border-radius: 12px;
+    border-width: 3px;
+    border-style: hidden;
+    
+}
+a{
+    letter-spacing: .05em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 1px 2px 6px #b6b6b6;
+}
+a:hover{
+    color: #3b3b3b;
+    box-shadow: 2px 4px 12px #3a3a3a;
+    background: #ffffff;
+    transition: 0.3s;
+}

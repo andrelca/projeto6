@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    background: #ffffff;
+}
+
+#cabecalho1{
+    background: #ffffff;
+    padding: 40px;
+    text-align: center;
+    box-shadow:0px 4px 6px #8a8a8a;
+}
+.esquerdaPrincipal{
+    text-align: left;
+    float: left;
+    margin: 110px 90px auto;
+    height: 400px;
+    
+}
+.direitaPrincipal{
+    text-align: right;
+    float: right;
+    margin: 100px 130px auto;
+    height: 400px;
+}
+#cabecalho2{
+    background: #ffffff;
+    padding: 25px;
+    text-align: center;
+    border-bottom-style:solid;
+    border-color: #b8b8b8;
+    border-radius: 10px;
+    width:1200px;
+    margin: 30px auto;
+    box-shadow:0px 4px 16px #8a8a8a   ;
+}
+#tela{
+    padding-top: 20px; 
+    width: 1100px; 
+    height: 300px;
+    margin: 45px  auto;
+    background: #ffffff;
+    border-radius: 30px;
+    line-height:26px;
+    box-shadow:0px 2px 6px #8a8a8a;
+}
+.descricao{
+    text-align: left;
+    margin: 30px 40px auto;
+}
+.cinza{
+    color:gray;
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+}
+p{
+    font-size: 1.2em;
+    color:rgb(0, 0, 0)
+}
+h3{
+    
+    font-size: 1.2em;
+    color:rgba(0, 0, 0, 0.582)
+}
+a:link, a:visited{
+    color: #000000;
+    padding: 8px 100px;
+    border-radius: 12px;
+    border-width: 3px;
+    border-style: hidden;
+    
+    
+}
+a{
+    letter-spacing: .05em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 1px 2px 6px #8a8a8a;
+  
+}
+a:hover{
+    color: #030303;
+    box-shadow: 2px 4px 12px #313131;
+    background: #ffffff;
+    transition: 0.3s;
+}
