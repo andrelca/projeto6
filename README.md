@@ -6,6 +6,6 @@ Criação de uma vitrine virtual, onde o cliente colocaria os produtos no site p
 
 
 # Integrantes:
-André Luis cavalcanti Araujo 
-Lucas José leite Marinho
-Pedro Henrique Cavalcanti Albuquerque
+* André Luis cavalcanti Araujo 
+* Lucas José leite Marinho
+* Pedro Henrique Cavalcanti Albuquerque
